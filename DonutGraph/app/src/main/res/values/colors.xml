@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="donutBackgroundColor">#d7d7d7</color>
+    <color name="donut_orange_color">#eb6227</color>
+    <color name="donut_blue_color">#139fd6</color>
+    <color name="donut_green_color">#a1ae32</color>
+    <color name="donut_turquoise_color">#00ab83</color>
+</resources>
